@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\comp\desktop\c repos\greetingsconsoleapp\debug\greetingsconsoleapp.exe' is denied.
+  stdafx.cpp
+  GreetingsConsoleApp.cpp
+c:\users\comp\desktop\c repos\greetingsconsoleapp\greetingsconsoleapp\greetingsconsoleapp.cpp(15): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
